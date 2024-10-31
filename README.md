@@ -24,4 +24,7 @@
 ##### Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg" align="left" height="48" width="48" alt="PhpStorm" >
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" align="left" height="48" width="48" alt="VSCode" >
+<img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" align="left" height="48" width="48" alt="SourceTree" >
+<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" align="left" height="48" width="48" alt="Jira" >
+<img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" align="left" height="48" width="48" alt="Insomnia" >
 <br><br><br>
