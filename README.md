@@ -1,6 +1,6 @@
-## :wave: Hola!! Gracias por visitar mi perfil en github
+## :wave: Hello!! Thanks for visiting my github
 
-### Actualmente trabajo como Jefe de Arquitectura y Desarrollo de Software.
+### I'm currently working as Head of Software Architecture and Development.
 
 #### Main tech stack: 
 ##### Backend
