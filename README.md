@@ -10,11 +10,18 @@
 
 ##### Frontend
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" align="left" height="48" width="48" alt="React" >
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" align="left" height="48" width="48" alt="Vue" >
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" align="left" height="48" width="48" alt="JavaScript" >
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" align="left" height="48" width="48" alt="Bootstrap" >
 <br><br>
 
-##### Otros
+##### Others
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" align="left" height="48" width="48" alt="firebase" >
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" align="left" height="48" width="48" alt="Docker" >
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" align="left" height="48" width="48" alt="AWS" >
+<br><br><br>
+
+##### Tools
+<img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg" align="left" height="48" width="48" alt="PhpStorm" >
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" align="left" height="48" width="48" alt="VSCode" >
 <br><br><br>
