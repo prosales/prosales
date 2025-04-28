@@ -13,6 +13,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" align="left" height="48" width="48" alt="Vue" >
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" align="left" height="48" width="48" alt="JavaScript" >
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" align="left" height="48" width="48" alt="Bootstrap" >
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" align="left" height="48" width="48" alt="TailwindCSS" >
 <br><br>
 
 ##### Others
