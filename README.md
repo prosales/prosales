@@ -1,9 +1,9 @@
 ## :wave: Hello!! Thanks for visiting my github
 
-# About Me:
+#### About Me:
 ### I'm currently working as Head of Software Architecture and Development.
 
-## 🌐 Socials:
+#### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/phablore) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/phablore) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prosalese) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pablo.rosales.espana@hotmail.com) 
 
 #### Main tech stack: 
